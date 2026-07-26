@@ -5,22 +5,23 @@
   <a href="https://github.com/MohamedElHussein12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/mohamed-elhussein12">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mohussein539@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=header"/>
-
-## 🚀 About Me
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:42A5F5,100:00C2FF&text=Mohamed%20El%20Hussein&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+##  About Me
 
 ```dart
 class MohamedElHussein {
@@ -111,13 +112,13 @@ class MohamedElHussein {
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/mohamed-elhussein12">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://github.com/MohamedElHussein12">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mohussein539@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
@@ -139,5 +140,5 @@ while (!success) {
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:42A5F5,100:00C2FF&section=footer"/>
 </p>
